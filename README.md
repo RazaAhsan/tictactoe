@@ -13,7 +13,7 @@ This is a Python implementation of the classic game Tic Tac Toe with an AI oppon
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RazaAhsan/tictactoe.git
+   git clone https://github.com/ahsanraza56/tictactoe.git
    ```
 
 2. Navigate to the project directory:
